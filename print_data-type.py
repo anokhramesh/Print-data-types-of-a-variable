@@ -1,4 +1,4 @@
-# This is an Example Program to Display the data type of variables in Pythom programming.
+# This is an Example Program to Display the data type of variables in Python programming.
 
 name = "ramesh kumar tharayil sadanandan"# assigned a string  to variable-'name' 
 print (type(name))# display the data type of 'name' variable.
